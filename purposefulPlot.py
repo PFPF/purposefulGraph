@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 from numpy import * # I SHOULD do this, because the user won't enter "np.sin(x)" ...
 import matplotlib.pyplot as plt
 
